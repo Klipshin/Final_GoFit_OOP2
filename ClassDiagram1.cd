@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Go.Analytics" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiEAAIAAACBgABACBEiAAgACAAAYAQgACDAAAQAAAAg=</HashCode>
+      <FileName>Analytics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.BaseForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAgAAACAAAACAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.ForgotPass">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="Go.BaseForm" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="2.954" />
+        <Point X="4.25" Y="3.2" />
+        <Point X="4.812" Y="3.2" />
+        <Point X="4.812" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABAkAgQAAGAAARlAIADAAAACggAAAAAAAQACAAJAQAg=</HashCode>
+      <FileName>ForgotPass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Register">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAGAAIBkAAADAAFACgACAAIAAAQAAAABQAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.FormLogin">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACQgIBAAYADAQBICIAQAAAEEAQAAAABQAAA=</HashCode>
+      <FileName>FormLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.GymLoc" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACEAgCAAARgBoACCEAESAACIAQABAAAgBQD/AAI=</HashCode>
+      <FileName>GymLoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Ingred" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAEiIgACxHABgAAAyAAQACIACAAQCggglAARBABXA=</HashCode>
+      <FileName>Ingred.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Main" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hBAAKBiAAGAgABRAEICABUACBAAACoAAACEAAQBAAEI=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.MealPlan" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABKQEDLwChAIAFjQAQAiEAMgACCCgYAgiwD/w6o=</HashCode>
+      <FileName>MealPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.MealPrep" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAiAAAYACIAABASAACAAQFSAAAYAAAAgAQAAoAAADA=</HashCode>
+      <FileName>MealPrep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Meals" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAACAACAAABAAAACAAAACAAAAAABgAAAAAAAAAAA=</HashCode>
+      <FileName>Meals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Program" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.Workout" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSAAQCAEADCAARACEACAAAwCQAiAAQAQgSAAARKfAIA=</HashCode>
+      <FileName>Workout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.AdminHome" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AdminHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.AdminLogin">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEACAAIBAAAADCABECIAQAAACAAQAAAABwAAA=</HashCode>
+      <FileName>AdminLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.AdminManage" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAACAMCAAABAAAACAAAADhAAAgAAIBBABgwAAAAA=</HashCode>
+      <FileName>AdminManage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.GoalSettings" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9QMAEAIQBKACQBAAQgKAAEDCBAUARQEAoAAIhQYfRDI=</HashCode>
+      <FileName>GoalSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.ManageMeal" Collapsed="true">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABCAQIDgQAACAAQQCACAAoQAAAAABAQAHBQY=</HashCode>
+      <FileName>ManageMeal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.ManageRequest" Collapsed="true">
+    <Position X="9.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAgCAACFgAaACQRAACAAAAAQAAAQgAAQA/AAA=</HashCode>
+      <FileName>ManageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.ManageUsers" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAEABAIAiAAABgAEACAAEACAQAAAQAAAAIABQD/AwA=</HashCode>
+      <FileName>ManageUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Go.ManageWorkout" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABDAQIDAQAACAAAACAAQAoQAAJDABAQAHAQY=</HashCode>
+      <FileName>ManageWorkout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
