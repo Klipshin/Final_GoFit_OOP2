@@ -240,13 +240,13 @@ namespace Go
             }
             // Get all approved locations from database
             var approvedLocations = GetApprovedLocations();
-
+            //type your API in the "YOUR_API_HERE"
             string mapHtml = $@"
         <!DOCTYPE html>
         <html>
         <head>
             <meta name='viewport' content='initial-scale=1.0, user-scalable=no' />
-            <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCUXZD_slxPG_aMUnG0vD5K8TlUHHlML9Q&libraries=places'></script>
+            <script src='YOUR_API_HERE'></script>
             <style>
                 #map {{ height: 100%; width: 100%; }}
                 #autocomplete {{
